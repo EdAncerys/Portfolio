@@ -1,3 +1,57 @@
+
+#logo {
+  font-size: 1.7rem;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbotron {
+  margin-top: 2rem;
+  height: 80vh;
+  justify-content: center;
+  background-size: cover;
+  background-image: asset-url('alpha_blog_jumbotron.jpg');
+}
+
+
+.jumbotron h1 {
+  color: #fff700;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+.footer a:hover {
+  color: #222;
+}
+
+.footer small {
+  float: left;
+}
+
+.footer ul {
+  float: right;
+  list-style: none;
+}
+
+.footer ul li {
+  float: left;
+  margin-left: 15px;
+}
+
 @import 'bootstrap/dist/css/bootstrap';
 
 // @import "bootstrap-sprockets";
