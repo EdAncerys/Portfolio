@@ -9,7 +9,13 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use sqlite3 as the database for Active Records
+
 gem 'bcrypt', '~> 3.1.7'
+gem 'will_paginate', '~> 3.2', '>= 3.2.1'
+gem 'bootstrap-will_paginate', '~> 1.0'
+gem 'will_paginate-bootstrap4'
+
+
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '>= 6'
