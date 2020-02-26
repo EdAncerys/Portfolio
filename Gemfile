@@ -14,6 +14,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '~> 3.2', '>= 3.2.1'
 gem 'bootstrap-will_paginate', '~> 1.0'
 gem 'will_paginate-bootstrap4'
+gem 'rails-controller-testing'
 
 
 # Use SCSS for stylesheets
