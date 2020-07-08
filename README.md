@@ -85,7 +85,7 @@ So I can show my mug
 I want to be able to share have my profile picture
 ```
 
-## Message Me Web App UI
+## Alpha Blog Web App UI
 
 ### User profile view
 
